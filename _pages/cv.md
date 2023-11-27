@@ -1,18 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
-Education
-======
-* B.S. in Computer Engineering, Università di Catania, 2013
-* M.S. in Computer Enginnering, Politecnico di Torino, 2018
 
 Work experience
 ======
@@ -37,3 +32,9 @@ Skills
 * Vulnerability Management
 * Cloud and Infrastructure and data security
 * Security Awareness
+
+
+Education
+======
+* B.S. in Computer Engineering, Università di Catania, 2013
+* M.S. in Computer Enginnering, Politecnico di Torino, 2018
