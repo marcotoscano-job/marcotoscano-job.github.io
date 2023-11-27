@@ -11,49 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Università di Catania, 2013
+* M.S. in Computer Enginnering, Politecnico di Torino, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr. 2022 - Present: SOC analyst for TUI Group
+  * Incident Handling and Response
+  * Use of security technology such as EDR/XDR, Cloud threat detection, IDS/IPS, and SIEM.
+  * Single Sign-on (SSO) implementations with Microsoft Azure AD.
+  * Develop and deliver security awareness, conduct knowledge transfer training sessions to security operations, and team upon technology implementation security tool.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2019 – Apr. 2022: Senior Security Analyst for Accenture
+  * Anti-fraud project for International Bank in 2022
+  * Threat modeling and define the security architecture for Internal Vehicle Company in 2021
+  * Vulnerability Management for International Bank in 2020
+  * Design secure migration from On-premise to Google Cloud Platform in 2019
+
+* Feb. 2018 - May 2019: Data Loss Prevention Analyst for IDATA GROUP - Spike Reply @ International Vehicle Company
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Incident Handling and Response
+* Threat Modeling
+* Vulnerability Management
+* Cloud and Infrastructure and data security
+* Security Awareness
